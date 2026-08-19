@@ -1,5 +1,5 @@
 # primer_web
-Mi primer repositorio
+Mi primera web
 
 ## Quién soy
 
