@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(184, 251, 251);
+    color:blueviolet
+}
+
+img{
+    width: 200px;
+    height:auto;
+}
+p {
+    font-family: fantasy;
+}
+
+.subparrafo {
+    font-size: 1.2em;
+}
+
+#ultimop {
+    color: rgb(255, 0, 221);
+}
